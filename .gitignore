@@ -181,3 +181,6 @@ cython_debug/
 .cursorindexingignore
 # Mac system files
 .DS_Store
+*.sqlite
+*.db
+data_prep_output/
